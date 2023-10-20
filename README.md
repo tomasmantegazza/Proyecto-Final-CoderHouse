@@ -69,6 +69,9 @@ La aplicación estará disponible en http://127.0.0.1:8000/
 # Video demostrativo del proyecto
 https://www.loom.com/share/627d087258d64dc7b817c4229214b3a1?sid=f3263606-79e6-4ad4-bc45-4ae6df1830b6
 
+# Plantilla con casos de prueba
+https://docs.google.com/spreadsheets/d/19216rgaTlZOlsoy52jrgcDQC1yeuqX9JFov6B0Iusy8/edit?usp=sharing
+
 
 # Estructura del Proyecto
 El proyecto está organizado de la siguiente manera:
