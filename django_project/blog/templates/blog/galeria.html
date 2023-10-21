@@ -1,0 +1,16 @@
+{% extends "blog/base.html" %}
+{% block content %}
+<div class="container">
+    <h1>Buenos Aires Car Meet</h1>
+    <h4>June 11, 2023</h4>
+    <div class="row">
+        {% for foto in fotos %}
+            <div class="col-md-4">
+                <a href="{{ foto.imagen.url }}" data-lightbox="fotos">
+                    <img src="{{ foto.imagen.url }}" alt="{{ foto.titulo }}" class="img-thumbnail">
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
