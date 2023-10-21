@@ -1,4 +1,4 @@
-# Proyecto-Final-CoderHouse
+# my-daily-drive-blog
 
 # MyDailyDrive
 Ejemplo de Blog hecho con Django!
