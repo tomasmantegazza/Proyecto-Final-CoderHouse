@@ -18,7 +18,7 @@ Este es un proyecto de ejemplo de un blog desarrollado utilizando el framework D
 # Instalación
 Asegúrate de tener Python y Django instalados en tu sistema. 
 1. Clona el repositorio:
-  gh repo clone tomasmantegazza/Proyecto-Final-CoderHouse
+  gh repo clone tomasmantegazza/my-daily-drive-blog
 
 2. Navega al directorio del proyecto:
   cd django_project
